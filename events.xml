@@ -4,21 +4,9 @@
         <description><![CDATA[RSS Feed - All County Events - Livestream]]></description>
         <link>https://my.yodel.today/api/v3/widget/rss_v1/69cc4bd7a2f025a5a4f40102</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 02 Apr 2026 04:15:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Apr 2026 04:15:11 GMT</lastBuildDate>
         <atom:link href="https://my.yodel.today/api/v3/widget/rss_v1/69cc4bd7a2f025a5a4f40102" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[<b>Holiday Open Studio</b> - 03/26/2026 9:00am EDT to 04/02/2026 6:00pm EDT]]></title><pubDate>2026-03-26T09:00:00</pubDate>
-            <description><![CDATA[<b>Location : 1034 Township Rd 293, Fostoria, OH 44830, USA</b> 
-
- <p>I'm a formerly trained Northwest Ohio artist with a specialty in landscape paintings. On MONdays and Thursdays until Christmas, I’ll have my studio and gallery space at my rural home in the Middle Of Nowhere (MON) open to artists, art lovers, and enthusiasts to chat, and see what I have on my easel.</p><p>December sales. December treats. Expect art, wine, refreshments and goodies. Join me for some lively convo on all things art!</p><p>This "open studio day" started out as an accountability exercise on my part (to make sure I would be in my studio achieving my goals), but has since become a fun interaction I cherish.</p><p>To see more about my artwork : www.MONgallery.us</p><p>*Please drive all the way up between the studio door and the brown barn… easy parking for you. There are stairs down into the studio that may be hindering for those with mobility issues, but there is a handrail.</p>]]></description>
-            <link>https://events.yodel.today/y/event/MONgallery-and-Art-Studio/Holiday-Open-Studio/6940434cc8500ce5dd89c9df_20260326</link>
-            <guid isPermaLink="false">6940434cc8500ce5dd89c9df_20260326</guid>
-            <category><![CDATA[Arts]]></category>
-            <dc:creator><![CDATA[MONgallery and Art Studio]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fevents%2Fevents_4128de83-cb78-4f1a-8731-2437abf019a0" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item><item>
             <title><![CDATA[<b>Discover Philadelphia</b> - 03/27/2026 10:00am EDT to 04/10/2026 10:00am EDT]]></title><pubDate>2026-03-27T10:00:00</pubDate>
             <description><![CDATA[<b>Location : 28 Hopewell Ave, Tiffin, OH 44883, USA</b> 
 
@@ -69,20 +57,6 @@
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item><item>
-            <title><![CDATA[<b>Pneumatics</b> - 04/02/2026 8:00am UTC to 04/02/2026 4:00pm UTC]]></title><pubDate>2026-04-02T08:00:00</pubDate>
-            <description><![CDATA[<b>Location : 342 Perry St, Fostoria, OH 44830, USA</b> 
-
- This course is a basic study of the principles of fluid power systems based on industrial applications. This course will have a heavy focus on pneumatic circuit operation and troubleshooting. The student will learn how to interpret a pneumatic circuit print and predict the operation of the circuit. Students will utilize the simulation software, Automation Studio, to understand how each pneumatic circuit operates. The student will also construct and troubleshoot the circuits in a controlled lab environment with industrial grade devices. The student will be introduced to hydraulic circuits, focusing on the safety of working with hydraulic systems and components, and interpreting hydraulic symbols in circuits. The student will also be introduced to controlling a pneumatic circuit with electrical/PLC circuits utilizing the simulation software in an asynchronous format.]]></description>
-            <link>https://fostorialearningcenter.org/event/pneumatics/2026-04-02/</link>
-            <guid isPermaLink="false">6926642df088b8e34df9e1a5</guid>
-            <category><![CDATA[Science & Tech]]></category>
-            <category><![CDATA[Classes/Workshops]]></category>
-            <category><![CDATA[Business]]></category>
-            <dc:creator><![CDATA[Fostoria Learning Center]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2Fff888179-43b8-48dd-88dc-0627444a93bc.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item><item>
             <title><![CDATA[<b>Tiffin moose 846 Spring Craft Show</b> - 04/02/2026 9:00am EDT to 04/05/2026 3:00pm EDT]]></title><pubDate>2026-04-02T09:00:00</pubDate>
             <description><![CDATA[<b>Location : 1146 OH-53, Tiffin, OH 44883, USA</b> 
 
@@ -110,67 +84,18 @@
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item><item>
-            <title><![CDATA[<b>10a | Toddler Tales</b> - 04/02/2026 10:00am EDT to 04/02/2026 11:00am EDT]]></title><pubDate>2026-04-02T10:00:00</pubDate>
-            <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
+            <title><![CDATA[<b>New Balance SALE @Kuebler Shoes</b> - 04/02/2026 10:00am EDT to 04/11/2026 5:00pm EDT]]></title><pubDate>2026-04-02T10:00:00</pubDate>
+            <description><![CDATA[<b>Location : 191 E Market St, Tiffin, OH 44883, USA</b> 
 
- null]]></description>
-            <link>https://tiffin-oh.whofi.com/calendar/embed</link>
-            <guid isPermaLink="false">69b20554462ba7dee861c810</guid>
-            <category><![CDATA[Kids & Family]]></category>
-            <category><![CDATA[School]]></category>
-            <dc:creator><![CDATA[Tiffin-Seneca Public Library ]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2Fe498d648-b675-4acf-821d-ef18b1cf7a8f.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item><item>
-            <title><![CDATA[<b>Storytime</b> - 04/02/2026 11:45am EDT to 04/02/2026 12:30pm EDT]]></title><pubDate>2026-04-02T11:45:00</pubDate>
-            <description><![CDATA[<b>Location : 14 N Main St, Attica, OH 44807, USA</b> 
-
- Story Time is best suited for almost 3 year-olds through Kindergarten, lasts for 45-60 minutes, and includes stories, songs, extension activities & a craft.]]></description>
-            <link>https://www.facebook.com/events/954571976904829/954571983571495</link>
-            <guid isPermaLink="false">69be5f54b12a5af750582c3c</guid>
-            <category><![CDATA[Kids & Family]]></category>
-            <category><![CDATA[Arts]]></category>
-            <dc:creator><![CDATA[Seneca East Public Library]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-det1-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F653048029_1346782194148764_485735699795205344_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item><item>
-            <title><![CDATA[<b>Maundy Thursday Service</b> - 04/02/2026 6:00pm EDT to 04/02/2026 7:00pm EDT]]></title><pubDate>2026-04-02T18:00:00</pubDate>
-            <description><![CDATA[<b>Location : 339 Sandusky St, Fostoria, OH 44830, USA</b> 
-
- Join us Thursday, April 2nd at 6pm for Maundy Thursday Service.]]></description>
-            <link>https://www.facebook.com/events/1605757730760033</link>
-            <guid isPermaLink="false">69bdc25a5591b4591f3b8432</guid>
-            <category><![CDATA[Religious]]></category>
-            <category><![CDATA[Causes]]></category>
-            <dc:creator><![CDATA[Fostoria Church of the Nazarene]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-det1-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F654273443_1404372145063905_7326943222880122794_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item><item>
-            <title><![CDATA[<b>Taste of Mexico</b> - 04/02/2026 6:30pm EDT to 04/02/2026 7:30pm EDT]]></title><pubDate>2026-04-02T18:30:00</pubDate>
-            <description><![CDATA[<b>Location : 89 Jefferson St, Tiffin, OH 44883, USA</b> 
-
- Enjoy the Flavors of Mexico]]></description>
-            <link>https://www.facebook.com/events/1414775496977160</link>
-            <guid isPermaLink="false">696edb2faa6f4324b45bf2b6</guid>
-            <category><![CDATA[Food & Drink]]></category>
-            <category><![CDATA[Causes]]></category>
-            <dc:creator><![CDATA[Tiffin Community Kitchen]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-sjc3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F616846624_1220365656888297_8756510990467769678_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item><item>
-            <title><![CDATA[<b>First Thursday Trivia Night!!</b> - 04/02/2026 7:00pm EDT to 04/02/2026 8:30pm EDT]]></title><pubDate>2026-04-02T19:00:00</pubDate>
-            <description><![CDATA[<b>Location : 105 E Tiffin St, Fostoria, OH 44830, USA</b> 
-
- First Thursday Trivia!!]]></description>
-            <link>https://www.facebook.com/events/2022391811640698</link>
-            <guid isPermaLink="false">69c4d6a9f129486a8ce05c6f</guid>
-            <category><![CDATA[Hobbies]]></category>
-            <dc:creator><![CDATA[The UrbanWoody Brewery & The HoneyBee Winery ]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F656209404_1539011048229947_4025798021259716929_n.jpg" length="0" type="image/jpeg"/>
+ Join Us for our New Balance shoe SALE! *Limited to select styles & versions *Limited time offer *10-30% OFF *Now through April 11th See us soon for your next pair of New Balance shoes!]]></description>
+            <link>https://www.facebook.com/events/2016419845971907</link>
+            <guid isPermaLink="false">69ced92d3d2c9be14ef998fa</guid>
+            <category><![CDATA[Fashion]]></category>
+            <category><![CDATA[Health & Fitness]]></category>
+            <category><![CDATA[Retail]]></category>
+            <category><![CDATA[Lifestyle]]></category>
+            <dc:creator><![CDATA[Kuebler Shoes]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lax3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F662415408_1445521604038153_7868593209305642969_n.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item><item>
@@ -331,17 +256,85 @@
             <duplicate_id>67f0c6d0ad48d47f75222391</duplicate_id>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
-        </item>
-        <item>
-            <title><![CDATA[<b>Discover Philadelphia</b> - 03/27/2026 10:00am EDT to 04/10/2026 10:00am EDT]]></title>
-            <description><![CDATA[<b>Location : 28 Hopewell Ave, Tiffin, OH 44883, USA</b> 
+        </item><item>
+            <title><![CDATA[<b>Eclipse Ever After Anniversary Celebration</b> - 04/04/2026 12:00pm EDT to 04/06/2026 6:00pm EDT]]></title><pubDate>2026-04-04T12:00:00</pubDate>
+            <description><![CDATA[<b>Location : 227 E Perry St, Tiffin, OH 44883, USA</b> 
 
- Please call 419-448-9774 or come in with questions or to sign up.]]></description>
-            <link>https://www.facebook.com/events/2944643965742398</link>
-            <guid isPermaLink="false">69c9bea7ce823493e4205edc</guid>
-            <category><![CDATA[Health & Fitness]]></category>
-            <dc:creator><![CDATA[Allen Eiry Senior Center]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-sjc3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F661081090_1430103425818354_5010377172829651438_n.jpg" length="0" type="image/jpeg"/>
+ The stars are aligning again… You’re Invited! Congratulations on celebrating one year of elopement and vow renewal bliss! We are thrilled to invite you back to Tiffin to relive the magic of Elope at the Eclipse and create even more unforgettable moments. Join us for a weekend filled with special events, unique experiences, and exciting activities designed just for you. Whether you are looking for a romantic getaway, a fun filled adventure, or a relaxing staycation right in your own backyard, Seneca County is the perfect destination to celebrate your love story, your way. Let the stars align once again for your love story! See the full lineup of events and offerings at: https://www.destinationsenecacounty.org/eclipse-ever.../ RSVP for Saturday Night's Eclipse Ever After Reunion: https://www.destinationsenecacounty.org/couples-reunion.../]]></description>
+            <link>https://www.facebook.com/events/502677102888099/</link>
+            <guid isPermaLink="false">67d121c2410d63b63bbe566a</guid>
+            <category><![CDATA[Lifestyle]]></category>
+            <category><![CDATA[Travel]]></category>
+            <dc:creator><![CDATA[The Poignon Project]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-prg1-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F484390816_1192568326207961_955092278975867574_n.jpg" length="0" type="image/jpeg"/>
+            <duplicate_id>67f0c47430f1f06bcede21e5</duplicate_id>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item><item>
+            <title><![CDATA[<b>Eclipse Ever After Anniversary Celebration</b> - 04/04/2026 12:00pm EDT to 04/06/2026 6:00pm EDT]]></title><pubDate>2026-04-04T12:00:00</pubDate>
+            <description><![CDATA[<b>Location : 96 S Washington St b, Tiffin, OH 44883, USA</b> 
+
+ <p>The stars are aligning again… You’re Invited! Congratulations on celebrating one year of elopement and vow renewal bliss! We are thrilled to invite you back to Tiffin to relive the magic of Elope at the Eclipse and create even more unforgettable moments. Join us for a weekend filled with special events, unique experiences, and exciting activities designed just for you. Whether you are looking for a romantic getaway, a fun filled adventure, or a relaxing staycation right in your own backyard, Seneca County is the perfect destination to celebrate your love story, your way. Let the stars align once again for your love story! See the full lineup of events and offerings at: https://www.destinationsenecacounty.org/eclipse-ever-after-anniversary-celebration.</p><p>RSVP for Saturday Night's Eclipse Ever After Reunion: https://www.destinationsenecacounty.org/couples-reunion-rsvp</p>]]></description>
+            <link>https://www.facebook.com/events/502677102888099/</link>
+            <guid isPermaLink="false">67d270a266024c8227f8b5d3</guid>
+            <category><![CDATA[Travel]]></category>
+            <category><![CDATA[Lifestyle]]></category>
+            <category><![CDATA[Seasonal & Holiday]]></category>
+            <dc:creator><![CDATA[Destination Seneca County]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F484390816_1192568326207961_955092278975867574_n.jpg" length="0" type="image/jpeg"/>
+            <duplicate_id>67f21d17c5a380dac22bdf31</duplicate_id>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item><item>
+            <title><![CDATA[<b>Eclipse Ever After Anniversary Celebration</b> - 04/04/2026 12:00pm EDT to 04/06/2026 6:00pm EDT]]></title><pubDate>2026-04-04T12:00:00</pubDate>
+            <description><![CDATA[<b>Location : Municipal Building, 51 E Market St, Tiffin, OH 44883, USA</b> 
+
+ The stars are aligning again… You’re Invited! Congratulations on celebrating one year of elopement and vow renewal bliss! We are thrilled to invite you back to Tiffin to relive the magic of Elope at the Eclipse and create even more unforgettable moments. Join us for a weekend filled with special events, unique experiences, and exciting activities designed just for you. Whether you are looking for a romantic getaway, a fun filled adventure, or a relaxing staycation right in your own backyard, Seneca County is the perfect destination to celebrate your love story, your way. Let the stars align once again for your love story! See the full lineup of events and offerings at: https://www.destinationsenecacounty.org/eclipse-ever.../ RSVP for Saturday Night's Eclipse Ever After Reunion: https://www.destinationsenecacounty.org/couples-reunion.../]]></description>
+            <link>https://www.facebook.com/events/502677102888099/</link>
+            <guid isPermaLink="false">67d122512b4a8366e50c0f74</guid>
+            <category><![CDATA[Lifestyle]]></category>
+            <category><![CDATA[Travel]]></category>
+            <dc:creator><![CDATA[City of Tiffin]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F484390816_1192568326207961_955092278975867574_n.jpg" length="0" type="image/jpeg"/>
+            <duplicate_id>67f0c4b630f1f06bcede2224</duplicate_id>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item><item>
+            <title><![CDATA[<b>Eclipse Ever After Anniversary Celebration</b> - 04/04/2026 12:00pm EDT to 04/06/2026 6:00pm EDT]]></title><pubDate>2026-04-04T12:00:00</pubDate>
+            <description><![CDATA[<b>Location : 116 S Washington St, Tiffin, OH 44883, USA</b> 
+
+ The stars are aligning again… You’re Invited! Congratulations on celebrating one year of elopement and vow renewal bliss! We are thrilled to invite you back to Tiffin to relive the magic of Elope at the Eclipse and create even more unforgettable moments. Join us for a weekend filled with special events, unique experiences, and exciting activities designed just for you. Whether you are looking for a romantic getaway, a fun filled adventure, or a relaxing staycation right in your own backyard, Seneca County is the perfect destination to celebrate your love story, your way. Let the stars align once again for your love story! See the full lineup of events and offerings at: https://www.destinationsenecacounty.org/eclipse-ever.../ RSVP for Saturday Night's Eclipse Ever After Reunion: https://www.destinationsenecacounty.org/couples-reunion.../]]></description>
+            <link>https://www.facebook.com/events/502677102888099/</link>
+            <guid isPermaLink="false">67d1218c865840946323ed16</guid>
+            <category><![CDATA[Lifestyle]]></category>
+            <dc:creator><![CDATA[Relevé Tiffin]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F484390816_1192568326207961_955092278975867574_n.jpg" length="0" type="image/jpeg"/>
+            <duplicate_id>67f0c47430f1f06bcede21e5</duplicate_id>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item><item>
+            <title><![CDATA[<b>2p | LEGO Saturday</b> - 04/04/2026 2:00pm EDT to 04/04/2026 4:00pm EDT]]></title><pubDate>2026-04-04T14:00:00</pubDate>
+            <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
+
+ null]]></description>
+            <link>https://tiffin-oh.whofi.com/calendar/embed</link>
+            <guid isPermaLink="false">69ab66016b2cdeed292120da</guid>
+            <category><![CDATA[Kids & Family]]></category>
+            <dc:creator><![CDATA[Tiffin-Seneca Public Library ]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2Fe498d648-b675-4acf-821d-ef18b1cf7a8f.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item><item>
+            <title><![CDATA[<b>ACO Regional Tiffin, OH</b> - 04/04/2026 3:30pm EDT to 04/04/2026 4:30pm EDT]]></title><pubDate>2026-04-04T15:30:00</pubDate>
+            <description><![CDATA[<b>Location : 49 E Perry St, Tiffin, OH 44883, USA</b> 
+
+ ACO Season 21 Regional- Tiffin, OH Date: April 4, 2026 Location: Knights of Columbus Address: 49 E. Perry St. Tiffin, OH 44883 Registration: 3pm Start Time: 3:30pm Division: World Doubles, Singles Entry Fee: TBA Payout: TBD Contact Information: Brayden Elchert: 419-618-0883 or belchert111@gmail.com   MEMBERSHIP INFORMATION ACO Starter Membership - FREE * No cost to join * Pays full retail price on all tournament tickets • Eligible for: * All ACO Divisions at ACO Regionals and Majors * ACO Standings Points/Prize money/Trophies ACO Player Membership - $30 * Discounted tournament ticket pricing * Eligible for: * All ACO Divisions at ACO Regionals and Majors * ACO Standings Points/Prize money/Trophies ACO Worlds Membership - $60 * Best available tournament ticket pricing * Eligible for: * All ACO Divisions at ACO Regionals and Majors * ACO Standings Points/Prize money/Trophies * Prize jerseys * Weekly prize opportunities (e.g., bag giveaways) * 500 bonus points awarded at signup (Singles Divisions only) BAG POLICY  Only ACO Stamped bags manufactured by ACO Season 21 Bag Partners can be used in any ACO Divisions * *NOTE* Older models of ACO stamped bags may be used if the bag manufacturer is still an ACO Bag Partner for ACO Season 21 For complete details, visit the ACO Calendar on AmericanCornhole.com. Click the link below: https://players.americancornhole.com/tournamen.../index/2...]]></description>
+            <link>https://www.facebook.com/events/4154519804771769</link>
+            <guid isPermaLink="false">69ccb6ede1f07eb9f8d324de</guid>
+            <category><![CDATA[Sports, Youth]]></category>
+            <category><![CDATA[Clubs]]></category>
+            <dc:creator><![CDATA[American Cornhole Organization]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F658897978_1366466622179615_2731178506485881241_n.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item>
@@ -387,21 +380,6 @@
             <paid_boost>false</paid_boost>
         </item>
         <item>
-            <title><![CDATA[<b>Pneumatics</b> - 04/02/2026 8:00am UTC to 04/02/2026 4:00pm UTC]]></title>
-            <description><![CDATA[<b>Location : 342 Perry St, Fostoria, OH 44830, USA</b> 
-
- This course is a basic study of the principles of fluid power systems based on industrial applications. This course will have a heavy focus on pneumatic circuit operation and troubleshooting. The student will learn how to interpret a pneumatic circuit print and predict the operation of the circuit. Students will utilize the simulation software, Automation Studio, to understand how each pneumatic circuit operates. The student will also construct and troubleshoot the circuits in a controlled lab environment with industrial grade devices. The student will be introduced to hydraulic circuits, focusing on the safety of working with hydraulic systems and components, and interpreting hydraulic symbols in circuits. The student will also be introduced to controlling a pneumatic circuit with electrical/PLC circuits utilizing the simulation software in an asynchronous format.]]></description>
-            <link>https://fostorialearningcenter.org/event/pneumatics/2026-04-02/</link>
-            <guid isPermaLink="false">6926642df088b8e34df9e1a5</guid>
-            <category><![CDATA[Science & Tech]]></category>
-            <category><![CDATA[Classes/Workshops]]></category>
-            <category><![CDATA[Business]]></category>
-            <dc:creator><![CDATA[Fostoria Learning Center]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2Fff888179-43b8-48dd-88dc-0627444a93bc.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item>
-        <item>
             <title><![CDATA[<b>Tiffin moose 846 Spring Craft Show</b> - 04/02/2026 9:00am EDT to 04/05/2026 3:00pm EDT]]></title>
             <description><![CDATA[<b>Location : 1146 OH-53, Tiffin, OH 44883, USA</b> 
 
@@ -431,71 +409,18 @@
             <paid_boost>false</paid_boost>
         </item>
         <item>
-            <title><![CDATA[<b>10a | Toddler Tales</b> - 04/02/2026 10:00am EDT to 04/02/2026 11:00am EDT]]></title>
-            <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
+            <title><![CDATA[<b>New Balance SALE @Kuebler Shoes</b> - 04/02/2026 10:00am EDT to 04/11/2026 5:00pm EDT]]></title>
+            <description><![CDATA[<b>Location : 191 E Market St, Tiffin, OH 44883, USA</b> 
 
- null]]></description>
-            <link>https://tiffin-oh.whofi.com/calendar/embed</link>
-            <guid isPermaLink="false">69b20554462ba7dee861c810</guid>
-            <category><![CDATA[Kids & Family]]></category>
-            <category><![CDATA[School]]></category>
-            <dc:creator><![CDATA[Tiffin-Seneca Public Library ]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2Fe498d648-b675-4acf-821d-ef18b1cf7a8f.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item>
-        <item>
-            <title><![CDATA[<b>Storytime</b> - 04/02/2026 11:45am EDT to 04/02/2026 12:30pm EDT]]></title>
-            <description><![CDATA[<b>Location : 14 N Main St, Attica, OH 44807, USA</b> 
-
- Story Time is best suited for almost 3 year-olds through Kindergarten, lasts for 45-60 minutes, and includes stories, songs, extension activities & a craft.]]></description>
-            <link>https://www.facebook.com/events/954571976904829/954571983571495</link>
-            <guid isPermaLink="false">69be5f54b12a5af750582c3c</guid>
-            <category><![CDATA[Kids & Family]]></category>
-            <category><![CDATA[Arts]]></category>
-            <dc:creator><![CDATA[Seneca East Public Library]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-det1-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F653048029_1346782194148764_485735699795205344_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item>
-        <item>
-            <title><![CDATA[<b>Maundy Thursday Service</b> - 04/02/2026 6:00pm EDT to 04/02/2026 7:00pm EDT]]></title>
-            <description><![CDATA[<b>Location : 339 Sandusky St, Fostoria, OH 44830, USA</b> 
-
- Join us Thursday, April 2nd at 6pm for Maundy Thursday Service.]]></description>
-            <link>https://www.facebook.com/events/1605757730760033</link>
-            <guid isPermaLink="false">69bdc25a5591b4591f3b8432</guid>
-            <category><![CDATA[Religious]]></category>
-            <category><![CDATA[Causes]]></category>
-            <dc:creator><![CDATA[Fostoria Church of the Nazarene]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-det1-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F654273443_1404372145063905_7326943222880122794_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item>
-        <item>
-            <title><![CDATA[<b>Taste of Mexico</b> - 04/02/2026 6:30pm EDT to 04/02/2026 7:30pm EDT]]></title>
-            <description><![CDATA[<b>Location : 89 Jefferson St, Tiffin, OH 44883, USA</b> 
-
- Enjoy the Flavors of Mexico]]></description>
-            <link>https://www.facebook.com/events/1414775496977160</link>
-            <guid isPermaLink="false">696edb2faa6f4324b45bf2b6</guid>
-            <category><![CDATA[Food & Drink]]></category>
-            <category><![CDATA[Causes]]></category>
-            <dc:creator><![CDATA[Tiffin Community Kitchen]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-sjc3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F616846624_1220365656888297_8756510990467769678_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item>
-        <item>
-            <title><![CDATA[<b>First Thursday Trivia Night!!</b> - 04/02/2026 7:00pm EDT to 04/02/2026 8:30pm EDT]]></title>
-            <description><![CDATA[<b>Location : 105 E Tiffin St, Fostoria, OH 44830, USA</b> 
-
- First Thursday Trivia!!]]></description>
-            <link>https://www.facebook.com/events/2022391811640698</link>
-            <guid isPermaLink="false">69c4d6a9f129486a8ce05c6f</guid>
-            <category><![CDATA[Hobbies]]></category>
-            <dc:creator><![CDATA[The UrbanWoody Brewery & The HoneyBee Winery ]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F656209404_1539011048229947_4025798021259716929_n.jpg" length="0" type="image/jpeg"/>
+ Join Us for our New Balance shoe SALE! *Limited to select styles & versions *Limited time offer *10-30% OFF *Now through April 11th See us soon for your next pair of New Balance shoes!]]></description>
+            <link>https://www.facebook.com/events/2016419845971907</link>
+            <guid isPermaLink="false">69ced92d3d2c9be14ef998fa</guid>
+            <category><![CDATA[Fashion]]></category>
+            <category><![CDATA[Health & Fitness]]></category>
+            <category><![CDATA[Retail]]></category>
+            <category><![CDATA[Lifestyle]]></category>
+            <dc:creator><![CDATA[Kuebler Shoes]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lax3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F662415408_1445521604038153_7868593209305642969_n.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item>
@@ -916,7 +841,7 @@
             <guid isPermaLink="false">69bdc25d96d092733aa35ae0</guid>
             <category><![CDATA[Kids & Family]]></category>
             <dc:creator><![CDATA[Fostoria Church of the Nazarene]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F654398853_1404383138396139_5026967680207762885_n.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2Fc681e3ab-367f-4796-81df-e444047a6062.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item>
@@ -1146,7 +1071,7 @@
             <description><![CDATA[<b>Location : 725 Columbus Ave, Fostoria, OH 44830, USA</b> 
 
  The Good Shepherd Home "League of Voters" is holding a Voters Forum on Thursday, April 9th at 10:30am. Residents and guests will have the opportunity to hear local candidates for the May 5th election speak and answer any questions. All are welcome!]]></description>
-            <link>https://web.facebook.com/events/1617087729507143</link>
+            <link>https://www.facebook.com/events/1617087729507143</link>
             <guid isPermaLink="false">699fe2634a419d7f952912a2</guid>
             <category><![CDATA[Government]]></category>
             <dc:creator><![CDATA[Good Shepherd Home]]></dc:creator>
@@ -1870,6 +1795,21 @@
             <paid_boost>false</paid_boost>
         </item>
         <item>
+            <title><![CDATA[<b>SPRING Kick-Start</b> - 04/15/2026 8:00am EDT to 04/15/2026 9:00am EDT]]></title>
+            <description><![CDATA[<b>Location : 10207 W County Rd 10, New Riegel, OH 44853, USA</b> 
+
+ On -Line program! Great way to get yourself started!]]></description>
+            <link>https://www.facebook.com/events/3485757378229612</link>
+            <guid isPermaLink="false">69cf1f8b80b7eb7368eb3117</guid>
+            <category><![CDATA[Health & Fitness]]></category>
+            <category><![CDATA[Lifestyle]]></category>
+            <category><![CDATA[Classes/Workshops]]></category>
+            <dc:creator><![CDATA[Fit 4 Life Fitness Center]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F661666271_1515516733914325_2650099936922824352_n.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
             <title><![CDATA[<b>4p | A Walk in the Arts</b> - 04/15/2026 4:00pm EDT to 04/15/2026 5:00pm EDT]]></title>
             <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
 
@@ -2314,7 +2254,7 @@
             <category><![CDATA[School]]></category>
             <category><![CDATA[Arts]]></category>
             <dc:creator><![CDATA[New Riegel Music ]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F660428770_1556035486528378_6864671713167999062_n.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-sjc6-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F660428770_1556035486528378_6864671713167999062_n.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item>
@@ -2385,7 +2325,7 @@
             <guid isPermaLink="false">69cbcb79b3ae8a7e8f81ef52</guid>
             <category><![CDATA[Causes]]></category>
             <dc:creator><![CDATA[Fostoria Church of the Nazarene]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-sjc6-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F659068323_1412471400920646_6663535239259358900_n.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F659068323_1412471400920646_6663535239259358900_n.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item>
@@ -2522,11 +2462,11 @@
             <description><![CDATA[<b>Location : 745 Columbus Ave, Fostoria, OH 44830, USA</b> 
 
  Join us on Wednesday, April 22nd at 2pm in the GSH lower level for our GSH "Hooked on Singing" Spring concert! Under the direction of Karis Matz, our choir members have been practicing very hard and are excited to sing new songs for you! Please contact Activities Director Wahneta Mockensturm at wmockensturm@goodshepherdhome.com or 419-937-1801 with any questions. We hope to see you then!]]></description>
-            <link>https://web.facebook.com/events/1853026442079301</link>
+            <link>https://www.facebook.com/events/1853026442079301</link>
             <guid isPermaLink="false">69bd7ac07c6bdd6e64d027ab</guid>
             <category><![CDATA[Music & Entertainment]]></category>
             <dc:creator><![CDATA[Good Shepherd Home]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-sjc3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F653899884_1526597746136535_4308429681221469493_n.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F653899884_1526597746136535_4308429681221469493_n.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item>
@@ -2774,6 +2714,20 @@
             <category><![CDATA[Causes]]></category>
             <dc:creator><![CDATA[Tiffin-Seneca Public Library ]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2Fe498d648-b675-4acf-821d-ef18b1cf7a8f.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
+            <title><![CDATA[<b>Tea & Timeless Treasures</b> - 04/25/2026 1:00pm EDT to 04/25/2026 3:00pm EDT]]></title>
+            <description><![CDATA[<b>Location : 151 W Center St, Fostoria, OH 44830, USA</b> 
+
+ Enjoy a tea and be entertained by Diane Hall and the History of Hats throughout the years. For information call Sue Zuelzke at 419-937-6696 or Gayle Guernsey at 419-619-0102. Tickets on sale soon!]]></description>
+            <link>https://www.facebook.com/events/1453020096615625</link>
+            <guid isPermaLink="false">69ce054a7f6cf9bd8afcfd10</guid>
+            <category><![CDATA[History & Museums]]></category>
+            <category><![CDATA[Lifestyle]]></category>
+            <dc:creator><![CDATA[Fostoria Area Historical Society]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F658450324_1261538616128602_1953578535232861864_n.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item>
@@ -3033,12 +2987,12 @@
             <description><![CDATA[<b>Location : 631 Plaza Dr, Fostoria, OH 44830, USA</b> 
 
  Dear Friends, We are pleased to announce the 24th Annual Good Shepherd Home Good Samaritan Dinner & Auction to be held on Wednesday, April 29, 2026. This year’s theme, “A Community in Bloom,” celebrates the compassion, generosity, and shared spirit that continue to strengthen our mission. The evening will once again be held at Stacy’s Place, 625 Plaza Drive, Fostoria. We warmly invite you to attend the dinner and/or contribute to the success of this special event, which helps raise funds for residents whose financial resources have been exhausted. As in previous years, all donors and sponsors will be recognized in our event program. Tickets are available for $40 per person and include appetizers, a seated dinner, dessert, and drinks. VIP tables are available for $400 and include seating for eight (  guests. In addition to donating auction items, we are excited to introduce our Blooming Sponsor Levels for those who wish to support the event through a monetary contribution: Violet Sponsor – $25 Rose Sponsor - $300 Daisy Sponsor – $75 Grand Garden Sponsor - $500 Tulip Sponsor – $150 Monetary sponsorships are gratefully accepted for those who wish to support the event in lieu of an item to contribute. To reserve tickets or inquire about sponsorship opportunities, please contact Crystal Macias at 419-937-1801 or cmacias@goodshepherdhome.com. If you would like to donate an auction item, please contact Wahneta Mockensturm at 419-937-1801 or wmockensturm@goodshepherdhome.com. Items may be dropped off, or we are happy to arrange pickup. On behalf of the Good Shepherd Home staff and the residents we serve, thank you for your continued generosity and support.]]></description>
-            <link>https://web.facebook.com/events/930803752872265</link>
+            <link>https://www.facebook.com/events/930803752872265</link>
             <guid isPermaLink="false">69a83eb1064010ea2960fac5</guid>
             <category><![CDATA[Causes]]></category>
             <category><![CDATA[Food & Drink]]></category>
             <dc:creator><![CDATA[Good Shepherd Home]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F646678480_1514421470687496_8998369800880056275_n.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F646678480_1514421470687496_8998369800880056275_n.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item>
@@ -3121,7 +3075,7 @@
             <category><![CDATA[Business]]></category>
             <category><![CDATA[Lifestyle]]></category>
             <dc:creator><![CDATA[Transformation Life Center]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-iad3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F636863570_1382291287264025_7240339758220883661_n.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F659878080_1419304123562741_8802828260866520733_n.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item>
@@ -3571,6 +3525,21 @@
             <paid_boost>false</paid_boost>
         </item>
         <item>
+            <title><![CDATA[<b>Pokemon Club</b> - 05/07/2026 4:30pm EDT to 05/07/2026 5:30pm EDT]]></title>
+            <description><![CDATA[<b>Location : 14 N Main St, Attica, OH 44807, USA</b> 
+
+ Join us for tabletop games, crafts and Pokemon watch parties! Cards for gaming will be provided. Both new and experienced Pokemon gamers are welcome. For kids in grades K-5.]]></description>
+            <link>https://www.facebook.com/events/1302716518423129/1302716528423128</link>
+            <guid isPermaLink="false">69ce7523406bddfc759c84ba</guid>
+            <category><![CDATA[Clubs]]></category>
+            <category><![CDATA[Kids & Family]]></category>
+            <category><![CDATA[Hobbies]]></category>
+            <dc:creator><![CDATA[Seneca East Public Library]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F658987906_1358710172955966_2588363967203483390_n.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
             <title><![CDATA[<b>6p | How to Read a Book Like a Professor: Follow-Up Discussion</b> - 05/07/2026 6:00pm EDT to 05/07/2026 7:00pm EDT]]></title>
             <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
 
@@ -3763,6 +3732,20 @@
             <category><![CDATA[Sports, Youth]]></category>
             <dc:creator><![CDATA[Hancock Park District]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2F03b05a7e-1cc1-4ace-8d02-d5ee992cc41e.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
+            <title><![CDATA[<b>10a | Puzzle Swap</b> - 05/09/2026 10:00am EDT to 05/09/2026 3:00pm EDT]]></title>
+            <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
+
+ null]]></description>
+            <link>https://tiffin-oh.whofi.com/calendar/embed</link>
+            <guid isPermaLink="false">69cf0db8a6fb32cdcf31e767</guid>
+            <category><![CDATA[Clubs]]></category>
+            <category><![CDATA[Kids & Family]]></category>
+            <dc:creator><![CDATA[Tiffin-Seneca Public Library ]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2Fe498d648-b675-4acf-821d-ef18b1cf7a8f.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item>
@@ -4025,10 +4008,12 @@
 
  Groups of all ages are invited to compete in two rounds of general trivia questions plus the final questions of local interest. Answers will be judged by local celebrities. Participants are asked to form teams of 6 or fewer, which can be composed of all ages. Teams will write their answers to be judged by local celebrities. Questions will be geared toward ages 12 and up. No phones, tablets, or electronic devices may be accessed during the contest. A traveling trophy will be awarded to the winning team. **ONE GrowthZone ticket per team. List each of the team members on the ticket.]]></description>
             <link>https://www.facebook.com/events/934036305959378</link>
-            <guid isPermaLink="false">699620d945ddb46db3f827e1</guid>
+            <guid isPermaLink="false">699578320d21707503a52326</guid>
+            <category><![CDATA[Kids & Family]]></category>
             <category><![CDATA[Clubs]]></category>
-            <dc:creator><![CDATA[Downtown Tiffin]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F637979982_935399742189292_6630462053157159036_n.jpg" length="0" type="image/jpeg"/>
+            <category><![CDATA[Hobbies]]></category>
+            <dc:creator><![CDATA[Carmie's BBQ & Grill]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-sjc3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F637979982_935399742189292_6630462053157159036_n.jpg" length="0" type="image/jpeg"/>
             <duplicate_id>69c6931f95512b52676b51db</duplicate_id>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
@@ -4039,11 +4024,9 @@
 
  Groups of all ages are invited to compete in two rounds of general trivia questions plus the final questions of local interest. Answers will be judged by local celebrities. Participants are asked to form teams of 6 or fewer, which can be composed of all ages. Teams will write their answers to be judged by local celebrities. Questions will be geared toward ages 12 and up. No phones, tablets, or electronic devices may be accessed during the contest. A traveling trophy will be awarded to the winning team. **ONE GrowthZone ticket per team. List each of the team members on the ticket.]]></description>
             <link>https://www.facebook.com/events/934036305959378</link>
-            <guid isPermaLink="false">699578320d21707503a52326</guid>
-            <category><![CDATA[Kids & Family]]></category>
+            <guid isPermaLink="false">699620d945ddb46db3f827e1</guid>
             <category><![CDATA[Clubs]]></category>
-            <category><![CDATA[Hobbies]]></category>
-            <dc:creator><![CDATA[Carmie's BBQ & Grill]]></dc:creator>
+            <dc:creator><![CDATA[Downtown Tiffin]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F637979982_935399742189292_6630462053157159036_n.jpg" length="0" type="image/jpeg"/>
             <duplicate_id>69c6931f95512b52676b51db</duplicate_id>
             <featured>false</featured>
@@ -4130,12 +4113,12 @@
             <description><![CDATA[<b>Location : 195 S Washington St, Tiffin, OH 44883, USA</b> 
 
  Capture the spirit of renewal at the first market of the season, where homemade goods and fresh produce come together to create a celebration of local talent]]></description>
-            <link>https://web.facebook.com/events/1221303786666276</link>
+            <link>https://www.facebook.com/events/1221303786666276</link>
             <guid isPermaLink="false">69c7924f8d8222d1a1381c0e</guid>
             <category><![CDATA[Food & Drink]]></category>
             <category><![CDATA[Markets]]></category>
             <dc:creator><![CDATA[Tiffin Seneca Farmers Market]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F607961268_1440750991386098_3045854066902146989_n.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-sjc3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F607961268_1440750991386098_3045854066902146989_n.jpg" length="0" type="image/jpeg"/>
             <duplicate_id>69cdd1ec9ddaab7c21c1641e</duplicate_id>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
@@ -4788,7 +4771,7 @@
             <category><![CDATA[Business]]></category>
             <category><![CDATA[Causes]]></category>
             <dc:creator><![CDATA[Seneca Regional Chamber & Development]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F615332734_1276736961156319_3806573375704385261_n.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-sjc6-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F615332734_1276736961156319_3806573375704385261_n.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item>
@@ -5024,13 +5007,13 @@
             <description><![CDATA[<b>Location : 11072 West, 11072 OH-18, Fostoria, OH 44830, USA</b> 
 
  Join us June 6th for the 4th Annual Mary Rose Golf Classic! Registration at 8:15, tee off at 9:00. See flyer and registration form under discussion tab for all the details. This has been a great event the past three years and we are excited to do it again! Proceeds benefit the DayBreak SAIDO Learning Center at Good Shepherd Home. Register your team or be a sponsor today!]]></description>
-            <link>https://web.facebook.com/events/904426885560166</link>
+            <link>https://www.facebook.com/events/904426885560166</link>
             <guid isPermaLink="false">69a9b110d8c83e4a154b9ca6</guid>
             <category><![CDATA[Causes]]></category>
             <category><![CDATA[Sports, Adult]]></category>
             <category><![CDATA[Lifestyle]]></category>
             <dc:creator><![CDATA[Good Shepherd Home]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F646560947_1515498530579790_3217326535202597574_n.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F646560947_1515498530579790_3217326535202597574_n.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item>
@@ -5251,7 +5234,7 @@
             <category><![CDATA[Music & Entertainment]]></category>
             <category><![CDATA[Festivals/Fairs]]></category>
             <dc:creator><![CDATA[Rumours Ohio  (Rumours)]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F610796135_836042859333982_2081848224736030550_n.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F610796135_836042859333982_2081848224736030550_n.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item>
@@ -5557,6 +5540,20 @@
             <category><![CDATA[Classes/Workshops]]></category>
             <dc:creator><![CDATA[YMCA of Bucyrus-Tiffin, Inc]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fevents%2Fevents_4ab93b46-3b35-4785-ab89-c9d576aabc12" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
+            <title><![CDATA[<b>Sins of a Madman – The Movement</b> - 06/26/2026 7:30pm EDT to 06/26/2026 8:30pm EDT]]></title>
+            <description><![CDATA[<b>Location : 30 S Washington St, Tiffin, OH 44883, USA</b> 
+
+ Friday, June 26, 2026 – 7:30 PM Get ready to step into the obscure world of Ozzy Osbourne. From his groundbreaking days with Black Sabbath to his legendary solo career, Ozzy redefined what it means to be a musical legend. That legacy is unleashed by Sins of a Mad Man, the premier Ozzy Osbourne tribute show, delivering a high-voltage performance packed with raw energy, theatrical intensity, and unmistakable sound, capturing the true madness of the Prince of Darkness. Before we descend into madness, The Movement rises with over 100 years of combined experience, blending vibrant tones, progressive rhythms, and searing [...]]]></description>
+            <link>https://ritztheatre.org/events/ozzy/?occurrence=2026-06-26</link>
+            <guid isPermaLink="false">69ced6287ba1aa272614bba6</guid>
+            <category><![CDATA[Music & Entertainment]]></category>
+            <category><![CDATA[Arts]]></category>
+            <dc:creator><![CDATA[The Ritz Theatre]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fritztheatre.org%2Fwp-content%2Fuploads%2F2025%2F10%2Fmadmancombo-300x300.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item>
@@ -6045,12 +6042,12 @@
 
  A huge week of Ohio Sprint Car racing continues as the Brad Doty Classic brings the World of Outlaws NOS Energy Drink Sprint Cars to Attica Raceway Park for the second and final time in 2026!]]></description>
             <link>https://www.facebook.com/events/869808396225088</link>
-            <guid isPermaLink="false">69b5250e987fd7195dc61c14</guid>
+            <guid isPermaLink="false">697116fcba1c8bafc41dbb67</guid>
             <category><![CDATA[Sports, Adult]]></category>
             <category><![CDATA[Auto, Boat & Air]]></category>
             <category><![CDATA[Travel]]></category>
-            <dc:creator><![CDATA[Attica Raceway Park]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F612306982_1303738861794356_9122269571772762693_n.jpg" length="0" type="image/jpeg"/>
+            <dc:creator><![CDATA[World of Outlaws Sprint Car Series]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F612306982_1303738861794356_9122269571772762693_n.jpg" length="0" type="image/jpeg"/>
             <duplicate_id>6971172df7a281507c4d4abb</duplicate_id>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
@@ -6061,12 +6058,12 @@
 
  A huge week of Ohio Sprint Car racing continues as the Brad Doty Classic brings the World of Outlaws NOS Energy Drink Sprint Cars to Attica Raceway Park for the second and final time in 2026!]]></description>
             <link>https://www.facebook.com/events/869808396225088</link>
-            <guid isPermaLink="false">697116fcba1c8bafc41dbb67</guid>
+            <guid isPermaLink="false">69b5250e987fd7195dc61c14</guid>
             <category><![CDATA[Sports, Adult]]></category>
             <category><![CDATA[Auto, Boat & Air]]></category>
             <category><![CDATA[Travel]]></category>
-            <dc:creator><![CDATA[World of Outlaws Sprint Car Series]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F612306982_1303738861794356_9122269571772762693_n.jpg" length="0" type="image/jpeg"/>
+            <dc:creator><![CDATA[Attica Raceway Park]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F612306982_1303738861794356_9122269571772762693_n.jpg" length="0" type="image/jpeg"/>
             <duplicate_id>6971172df7a281507c4d4abb</duplicate_id>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
