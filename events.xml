@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[All County Events - Livestream]]></title>
-        <description><![CDATA[RSS Feed - All County Events - Livestream]]></description>
+        <title><![CDATA[DSC - Livestream]]></title>
+        <description><![CDATA[RSS Feed - DSC - Livestream]]></description>
         <link>https://my.yodel.today/api/v3/widget/rss_v1/69cc4bd7a2f025a5a4f40102</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Apr 2026 04:15:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Apr 2026 12:56:03 GMT</lastBuildDate>
         <atom:link href="https://my.yodel.today/api/v3/widget/rss_v1/69cc4bd7a2f025a5a4f40102" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[<b>Discover Philadelphia</b> - 03/27/2026 10:00am EDT to 04/10/2026 10:00am EDT]]></title><pubDate>2026-03-27T10:00:00</pubDate>
@@ -833,6 +833,20 @@
             <paid_boost>false</paid_boost>
         </item>
         <item>
+            <title><![CDATA[<b>Mobile Mammography</b> - 04/07/2026 12:00am EDT to 04/07/2026 1:00am EDT]]></title>
+            <description><![CDATA[<b>Location : 1344 W Seneca Ave, Tiffin, OH 44883, USA</b> 
+
+ The Mercy Health Mobile Mammography Van provides services for easier access to quality care in a safe, convenient environment. The mobile unit uses the same newest high-quality 3D technology, including patient assisted compression, allowing you to control the amount of pressure once in position for your mammogram, allowing for a more comfortable experience.]]></description>
+            <link>https://www.mercy.com/news-events/events/toledo/2026/april/mobile-mammography-tiffin-community-health-center-april-7</link>
+            <guid isPermaLink="false">69cf8dd6569ab2f3e042199c</guid>
+            <category><![CDATA[Health & Fitness]]></category>
+            <category><![CDATA[Science & Tech]]></category>
+            <dc:creator><![CDATA[Mercy Health - Springfield]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2F57128131-5015-4534-bedc-1e8ba2c773b6.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
             <title><![CDATA[<b>Laundry Day</b> - 04/07/2026 9:00am EDT to 04/07/2026 3:00pm EDT]]></title>
             <description><![CDATA[<b>Location : 339 Sandusky St, Fostoria, OH 44830, USA</b> 
 
@@ -841,7 +855,7 @@
             <guid isPermaLink="false">69bdc25d96d092733aa35ae0</guid>
             <category><![CDATA[Kids & Family]]></category>
             <dc:creator><![CDATA[Fostoria Church of the Nazarene]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2Fc681e3ab-367f-4796-81df-e444047a6062.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F654398853_1404383138396139_5026967680207762885_n.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item>
@@ -1583,6 +1597,20 @@
             <paid_boost>false</paid_boost>
         </item>
         <item>
+            <title><![CDATA[<b>Mobile Mammography</b> - 04/13/2026 12:00am EDT to 04/13/2026 1:00am EDT]]></title>
+            <description><![CDATA[<b>Location : 1344 W Seneca Ave, Tiffin, OH 44883, USA</b> 
+
+ The Mercy Health Mobile Mammography Van provides services for easier access to quality care in a safe, convenient environment. The mobile unit uses the same newest high-quality 3D technology, including patient assisted compression, allowing you to control the amount of pressure once in position for your mammogram, allowing for a more comfortable experience.]]></description>
+            <link>https://www.mercy.com/news-events/events/toledo/2026/april/mobile-mammography-tiffin-community-health-center-april-13</link>
+            <guid isPermaLink="false">69cf8dd7569ab2f3e042199d</guid>
+            <category><![CDATA[Health & Fitness]]></category>
+            <category><![CDATA[Science & Tech]]></category>
+            <dc:creator><![CDATA[Mercy Health - Springfield]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2F57128131-5015-4534-bedc-1e8ba2c773b6.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
             <title><![CDATA[<b>Holiday Open Studio</b> - 04/13/2026 9:00am EDT to 04/20/2026 6:00pm EDT]]></title>
             <description><![CDATA[<b>Location : 1034 Township Rd 293, Fostoria, OH 44830, USA</b> 
 
@@ -1836,6 +1864,20 @@
             <paid_boost>false</paid_boost>
         </item>
         <item>
+            <title><![CDATA[<b>Mobile Mammography</b> - 04/16/2026 12:00am EDT to 04/16/2026 1:00am EDT]]></title>
+            <description><![CDATA[<b>Location : 1344 W Seneca Ave, Tiffin, OH 44883, USA</b> 
+
+ The Mercy Health Mobile Mammography Van provides services for easier access to quality care in a safe, convenient environment. The mobile unit uses the same newest high-quality 3D technology, including patient assisted compression, allowing you to control the amount of pressure once in position for your mammogram, allowing for a more comfortable experience.]]></description>
+            <link>https://www.mercy.com/news-events/events/toledo/2026/april/mobile-mammography-tiffin-community-health-center-april-16</link>
+            <guid isPermaLink="false">69cf8dd7569ab2f3e04219a1</guid>
+            <category><![CDATA[Health & Fitness]]></category>
+            <category><![CDATA[Science & Tech]]></category>
+            <dc:creator><![CDATA[Mercy Health - Springfield]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2F57128131-5015-4534-bedc-1e8ba2c773b6.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
             <title><![CDATA[<b>Allen Bradley PLC 1</b> - 04/16/2026 8:00am UTC to 04/16/2026 4:00pm UTC]]></title>
             <description><![CDATA[<b>Location : 342 Perry St, Fostoria, OH 44830, USA</b> 
 
@@ -1899,7 +1941,7 @@
             <guid isPermaLink="false">69a07f198c39db8b3b3f06bb</guid>
             <category><![CDATA[Causes]]></category>
             <dc:creator><![CDATA[Sisters in Shelter]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F643457947_1351839493638451_3438088168180278424_n.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-dfw6-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F643457947_1351839493638451_3438088168180278424_n.jpg" length="0" type="image/jpeg"/>
             <duplicate_id>69a0802959537bedbad8dd82</duplicate_id>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
@@ -2727,7 +2769,7 @@
             <category><![CDATA[History & Museums]]></category>
             <category><![CDATA[Lifestyle]]></category>
             <dc:creator><![CDATA[Fostoria Area Historical Society]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F658450324_1261538616128602_1953578535232861864_n.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-sjc6-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F660292447_1262478106034653_1809726337100447087_n.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item>
@@ -2812,6 +2854,20 @@
             <category><![CDATA[Religious]]></category>
             <dc:creator><![CDATA[Fostoria Church of the Nazarene]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-sea5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F654224203_1404351085066011_1595787021545723598_n.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
+            <title><![CDATA[<b>Mobile Mammography</b> - 04/27/2026 12:00am EDT to 04/27/2026 1:00am EDT]]></title>
+            <description><![CDATA[<b>Location : 1344 W Seneca Ave, Tiffin, OH 44883, USA</b> 
+
+ The Mercy Health Mobile Mammography Van provides services for easier access to quality care in a safe, convenient environment. The mobile unit uses the same newest high-quality 3D technology, including patient assisted compression, allowing you to control the amount of pressure once in position for your mammogram, allowing for a more comfortable experience.]]></description>
+            <link>https://www.mercy.com/news-events/events/toledo/2026/april/mobile-mammography-tiffin-community-health-center-april-27</link>
+            <guid isPermaLink="false">69cf8dd7569ab2f3e04219a5</guid>
+            <category><![CDATA[Health & Fitness]]></category>
+            <category><![CDATA[Science & Tech]]></category>
+            <dc:creator><![CDATA[Mercy Health - Springfield]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2F57128131-5015-4534-bedc-1e8ba2c773b6.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item>
@@ -3006,6 +3062,20 @@
             <category><![CDATA[Religious]]></category>
             <dc:creator><![CDATA[Fostoria Church of the Nazarene]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F654998908_1404308895070230_6968969467712622633_n.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
+            <title><![CDATA[<b>Mobile Mammography</b> - 04/30/2026 12:00am EDT to 04/30/2026 1:00am EDT]]></title>
+            <description><![CDATA[<b>Location : 1344 W Seneca Ave, Tiffin, OH 44883, USA</b> 
+
+ The Mercy Health Mobile Mammography Van provides services for easier access to quality care in a safe, convenient environment. The mobile unit uses the same newest high-quality 3D technology, including patient assisted compression, allowing you to control the amount of pressure once in position for your mammogram, allowing for a more comfortable experience.]]></description>
+            <link>https://www.mercy.com/news-events/events/toledo/2026/april/mobile-mammography-tiffin-community-health-center-april-30</link>
+            <guid isPermaLink="false">69cf8dd8569ab2f3e04219ab</guid>
+            <category><![CDATA[Health & Fitness]]></category>
+            <category><![CDATA[Science & Tech]]></category>
+            <dc:creator><![CDATA[Mercy Health - Springfield]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2F57128131-5015-4534-bedc-1e8ba2c773b6.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item>
@@ -3691,6 +3761,21 @@
             <paid_boost>false</paid_boost>
         </item>
         <item>
+            <title><![CDATA[<b>Spring Migration Bird Hike</b> - 05/09/2026 9:00am EDT to 05/09/2026 10:00am EDT]]></title>
+            <description><![CDATA[<b>Location : 1143 Township Rd 243, Fostoria, OH 44830, USA</b> 
+
+ Join us for the Spring Migration Bird Hike at Aeraland Recreation Area! This guided hike is a wonderful opportunity to observe many interesting and colorful birds, including Eastern Meadowlark, Orchard Oriole, Indigo Bunting, Red-eyed Vireo, and a variety of vibrant warblers as they journey to their northern breeding grounds. Binoculars will be provided, or you can bring your own. The event starts at 9 AM, is open to all ages, and is free with no registration required. For more information, you can contact Tim Kleman at tkleman@hancockparks.com.]]></description>
+            <link>https://www.facebook.com/events/1271060241124786</link>
+            <guid isPermaLink="false">69a77ae8b41fc9b4f5c23f02</guid>
+            <category><![CDATA[Parks & Rec]]></category>
+            <category><![CDATA[Kids & Family]]></category>
+            <category><![CDATA[Travel]]></category>
+            <dc:creator><![CDATA[Hancock Park District]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F661140204_1371463745022268_1117573899859505585_n.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
             <title><![CDATA[<b>"Trumpeter Swan"  Saturday, May 9, 2026 9am-1pm #05092601</b> - 05/09/2026 9:00am EDT to 05/09/2026 1:00pm EDT]]></title>
             <description><![CDATA[<b>Location : 130 S Washington St, Tiffin, OH 44883, USA</b> 
 
@@ -3716,22 +3801,6 @@
             <category><![CDATA[Food & Drink]]></category>
             <dc:creator><![CDATA[JAM's Monthly Markets]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-iad3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F520599398_122182605554310372_6405543454499891427_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item>
-        <item>
-            <title><![CDATA[<b>Spring Migration Bird Hike</b> - 05/09/2026 9:00am EDT to 05/09/2026 10:00am EDT]]></title>
-            <description><![CDATA[<b>Location : Aeraland Recreational Area, 1220 Township Rd 243, Fostoria, OH 44830, USA</b> 
-
- Many interesting and colorful birds are passing through during spring migration on their way to the breeding grounds in the north. During this guided hike, search for birds like Eastern Meadowlark, Orchard Oriole, Indigo Bunting, Red-eyed Vireo, and a wide range of colorful warblers. Binoculars will be provided or bring your own. Aeraland Recreation Area Shelter 9 AM All ages are welcome. Free; registration is not required. Tim Kleman tkleman@hancockparks.com]]></description>
-            <link>https://hancockparks.com/event/spring-migration-bird-hike/</link>
-            <guid isPermaLink="false">69a77ae8b41fc9b4f5c23f02</guid>
-            <category><![CDATA[Kids & Family]]></category>
-            <category><![CDATA[Outdoors]]></category>
-            <category><![CDATA[Hobbies]]></category>
-            <category><![CDATA[Sports, Youth]]></category>
-            <dc:creator><![CDATA[Hancock Park District]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2F03b05a7e-1cc1-4ace-8d02-d5ee992cc41e.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item>
@@ -4865,7 +4934,7 @@
             <category><![CDATA[Auto, Boat & Air]]></category>
             <category><![CDATA[Kids & Family]]></category>
             <dc:creator><![CDATA[Autumnwood Care Center ]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-iad3-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F650103705_1353593663468448_1901174906857647514_n.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-atl3-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F650103705_1353593663468448_1901174906857647514_n.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item>
